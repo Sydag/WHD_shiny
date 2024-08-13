@@ -1,0 +1,13 @@
+name: WHD_app
+title: WHD_app
+username:
+account: plafont
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3903022
+bundleId: 5351230
+url: https://plafont.shinyapps.io/WHD_app/
+when: 1639069109.28686
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_test_log.R|WHD_R.s
